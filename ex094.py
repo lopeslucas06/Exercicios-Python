@@ -23,8 +23,3 @@ for p in pessoas:
     if p['idade'] > media:
         maior.append(p['nome'])
 print(f'As pessoas acima da média de idade são {maior}')
-        
-
-    
-    
-
